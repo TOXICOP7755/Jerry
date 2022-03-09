@@ -1,6 +1,6 @@
 # Jerry
 
-<p align="center"><a href="https://t.me/Nobita_Doremon_bot"><img src="https://github.com/Alone45-45/Nobita/raw/main/driver/nobita.png"></a></p>
+<p align="center"><a href="http://t.me/SFLMANAGER_BOT"><img src="https://te.legra.ph/file/ba78c8381ddec2f5d7247.jpg"></a></p>
 <p align="center">
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ!</h4>    
@@ -14,4 +14,4 @@
 
 ## ʟɪᴄᴇɴsᴇ
 
-ᴅɪsᴛʀɪʙᴜᴛᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ɢɴᴜ ɢᴇɴᴇʀᴀʟ ᴘᴜʙʟɪᴄ ʟɪᴄᴇɴsᴇ ᴠ𝟹.𝟶 ʟɪᴄᴇɴsᴇ](https://github.com/Alone45-45/Nobita/blob/main/LICENSE) sᴇᴇ ʟɪᴄᴇɴsᴇ.ᴍᴅ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
+ᴅɪsᴛʀɪʙᴜᴛᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ɢɴᴜ ɢᴇɴᴇʀᴀʟ ᴘᴜʙʟɪᴄ ʟɪᴄᴇɴsᴇ ᴠ𝟹.𝟶 ʟɪᴄᴇɴsᴇ](https://github.com/Parth651-45/Tom/blob/main/LICENSE) sᴇᴇ ʟɪᴄᴇɴsᴇ.ᴍᴅ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
