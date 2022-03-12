@@ -162,21 +162,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/eSport_BOTs")
+                            url=f"https://t.me/THEJERRY_NETWORK")
                ],
                [
                     InlineKeyboardButton(
                             text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Sanki_Owner"),
+                            url=f"https://t.me/Xmen_logon"),
                             
                     InlineKeyboardButton(
                             text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/Smoker_Feelings")
+                            url=f"https://t.me/THEJERRY_NETWORK")
                ],
                [
                         InlineKeyboardButton(
                             text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/EsportClan")
+                            url=f"https://t.me/TheJerrySupport")
                    
                 ]
             ]
@@ -215,21 +215,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/eSport_BOTs")
+                            url=f"https://t.me/THEJERRY_NETWORK")
                ],
                [
                     InlineKeyboardButton(
                             text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Sanki_Owner"),
+                            url=f"https://t.me/Xmen_logon"),
                             
                     InlineKeyboardButton(
                             text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/Smoker_Feelings")
+                            url=f"https://t.me/THEJERRY_NETWORK")
                ],
                [
                         InlineKeyboardButton(
                             text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/EsportClan")
+                            url=f"https://t.me/TheJerrySupport")
                    
                 ]
             ]
@@ -245,21 +245,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/eSport_BOTs")
+                            url=f"https://t.me/THEJERRY_NETWORK")
                ],
                [
                     InlineKeyboardButton(
                             text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Sanki_Owner"),
+                            url=f"https://t.me/Xmen_logon"),
                             
                     InlineKeyboardButton(
                             text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/Smoker_Feelings")
+                            url=f"https://t.me/THEJERRY_NETWORK")
                ],
                [
                         InlineKeyboardButton(
                             text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/EsportClan")
+                            url=f"https://t.me/TheJerrySupport")
                    
                 ]
             ]
@@ -313,21 +313,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/eSport_BOTs")
+                            url=f"https://t.me/THEJERRY_NETWORK")
                ],
                [
                     InlineKeyboardButton(
                             text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Sanki_Owner"),
+                            url=f"https://t.me/Xmen_logon"),
                             
                     InlineKeyboardButton(
                             text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/Smoker_Feelings")
+                            url=f"https://t.me/THEJERRY_NETWORK")
                ],
                [
                         InlineKeyboardButton(
                             text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/EsportClan")
+                            url=f"https://t.me/TheJerrySupport")
                    
                 ]
             ]
