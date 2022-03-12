@@ -18,7 +18,7 @@ ACTV_CALLS = []
 @authorized_users_only
 async def pause(_, message: Message):
     await callsmusic.pytgcalls.pause_stream(message.chat.id)
-    await message.reply_text("😋ᴘᴀᴜsᴇ🙈")
+    await message.reply_text("😋ʙᴇᴛᴀ ʀᴜᴋ ᴊᴀ🙈")
 
 
 @Client.on_message(command(["resume"]) & other_filters)
@@ -26,7 +26,7 @@ async def pause(_, message: Message):
 @authorized_users_only
 async def resume(_, message: Message):
     await callsmusic.pytgcalls.resume_stream(message.chat.id)
-    await message.reply_text("😋ʀᴇsᴜᴍᴇ😉")
+    await message.reply_text("😋ᴡᴀᴘs ᴀᴀ ᴊᴀᴏ ʙᴇᴛᴀ😉")
 
 
 @Client.on_message(command(["end"]) & other_filters)
@@ -39,7 +39,7 @@ async def stop(_, message: Message):
         pass
 
     await callsmusic.pytgcalls.leave_group_call(message.chat.id)
-    await message.reply_text("😋sᴛᴏᴘ 🤭 sᴏɴɢ😶")
+    await message.reply_text("😋ᴊᴀ ʙᴇᴛᴀ sᴏᴊᴀ😶")
 
 @Client.on_message(command(["skip"]) & other_filters)
 @errors
