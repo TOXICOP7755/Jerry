@@ -237,7 +237,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/a67094fc4a99bca08114b.jpg"
+            thumb_name = "https://te.legra.ph/file/b0284421d07c5b51b3db1.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -267,7 +267,7 @@ async def play(_, message: Message):
 
         if (dur / 60) > DURATION_LIMIT:
             await lel.edit(
-                f"**❰ ° 𝐒𝐨𝐧𝐠 🎸 ° ❱ 𝐋𝐨𝐧𝐠𝐞𝐫 𝐓𝐡𝐚𝐧 {DURATION_LIMIT} 𝐌𝐢𝐧𝐮𝐭𝐞'𝐒 𝐀𝐫𝐞𝐧'𝐭 𝐀𝐥𝐥𝐨𝐰𝐞𝐝 𝐓𝐨 𝐏𝐥𝐚𝐲 ▶ ❤️🥀**"
+                f"**ʜʏʏ ʀᴇ 🥺 {DURATION_LIMIT} 😅ᴍᴇʀᴀ ʙᴇᴛᴀ ɪsᴇᴇ ᴊᴀᴅᴀ ɴᴀʜɪ ᴄʜᴀʟ ᴘᴀʏᴇɢᴀ😢**"
             )
             return
         requested_by = message.from_user.first_name
@@ -276,7 +276,7 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "✌𝐖𝐡𝐚𝐭'𝐒 𝐓𝐡𝐞 ❤️ 𝐒𝐨𝐧𝐠 🎸 𝐘𝐨𝐮 🎧 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐥𝐚𝐲 ▶ ❤️**"
+                "**😉ʙᴇᴛᴀ ɪɴᴋᴇ ᴘᴀsᴀɴᴅ ᴋᴀ ɢᴀɴᴀ ʟᴀɢᴀɴᴀ❤️‍🔥**"
             )
         await lel.edit("🔎")
         query = message.text.split(None, 1)[1]
@@ -303,7 +303,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             await lel.edit(
-                "**🌸° 𝐒𝐨𝐧𝐠 🎸 𝐍𝐨𝐭 😒 𝐅𝐨𝐮𝐧𝐝 𝐒𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 ° 🥀.**"
+                "**🥱ʙᴇᴛᴀ ᴘᴀʜᴀʟᴇ ᴀᴘᴘ ᴊᴀᴋᴇ ᴇɴɢʟɪsʜ sɪᴋʜᴏ🤨**"
             )
             print(str(e))
             return
@@ -335,7 +335,7 @@ async def play(_, message: Message):
 
         if (dur / 60) > DURATION_LIMIT:
             await lel.edit(
-                f"**❰ ° 𝐒𝐨𝐧𝐠 🎸 ° ❱ 𝐋𝐨𝐧𝐠𝐞𝐫 𝐓𝐡𝐚𝐧 {DURATION_LIMIT} 𝐌𝐢𝐧𝐮𝐭𝐞'𝐒 𝐀𝐫𝐞𝐧'𝐭 𝐀𝐥𝐥𝐨𝐰𝐞𝐝 𝐓𝐨 𝐏𝐥𝐚𝐲 ▶ ❤️🥀**"
+                f"**ʜʏʏ ʀᴇ 🥺 {DURATION_LIMIT} 😅ᴍᴇʀᴀ ʙᴇᴛᴀ ɪsᴇᴇ ᴊᴀᴅᴀ ɴᴀʜɪ ᴄʜᴀʟ ᴘᴀʏᴇɢᴀ😢**"
             )
             return
         requested_by = message.from_user.first_name
@@ -349,7 +349,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****❰ 𝐌𝐮𝐬𝐢𝐜'𝐗 ❘ 𝐞𝐒𝐩𝐨𝐫𝐭 😈 ❱ 𝐒𝐨𝐧𝐠 ❤️ 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧 💫🤟** {}**".format(position),
+            caption="**🙊ᴍᴇʀᴇ ʙᴇᴛᴀ ᴋᴀ ᴘʀᴏɢʀᴇssᴇs😋** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -366,7 +366,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**❰ 𝐌𝐮𝐬𝐢𝐜'𝐗 ❘ 𝐞𝐒𝐩𝐨𝐫𝐭 😈 ❱ Now 😄 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 📀 𝐀𝐭 🤟 `{}`...**".format(
+            caption="**❰ 🎼👎{}`...**".format(
         message.chat.title
         ), )
 
