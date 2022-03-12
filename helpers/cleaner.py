@@ -1,4 +1,4 @@
-# Copyright (C) 2022 By #SmokerMusicX
+
 
 import os
 from pyrogram import Client, filters
@@ -17,9 +17,9 @@ async def clear_downloads(_, message: Message):
     if ls_dir:
         for file in os.listdir(downloads):
             os.remove(os.path.join(downloads, file))
-        await message.reply_text("✅ **deleted all downloaded files**")
+        await message.reply_text("😏ᴀᴘɴᴇ ʙᴀᴘ sᴇ🕳️ ᴘᴀɴɢᴀ ʟᴇɢᴀ🤓")
     else:
-        await message.reply_text("❌ **no files downloaded**")
+        await message.reply_text("🕳️ᴊᴀ ʙᴇᴛᴀ sᴏᴊᴀ💥")
 
         
 @Client.on_message(command(["rmw", "clean"]) & ~filters.edited)
@@ -30,9 +30,9 @@ async def clear_raw(_, message: Message):
     if ls_dir:
         for file in os.listdir(raw_files):
             os.remove(os.path.join(raw_files, file))
-        await message.reply_text("✅ **deleted all raw files**")
+        await message.reply_text(""😏ᴀᴘɴᴇ ʙᴀᴘ sᴇ🕳️ ᴘᴀɴɢᴀ ʟᴇɢᴀ🤓")
     else:
-        await message.reply_text("❌ **no raw files**")
+        await message.reply_text("🕳️ᴊᴀ ʙᴇᴛᴀ sᴏᴊᴀ💥")
 
 
 @Client.on_message(command(["cleanup"]) & ~filters.edited)
@@ -44,6 +44,6 @@ async def cleanup(_, message: Message):
     if ls_dir:
         for dta in os.listdir(pth):
             os.system("rm -rf *.webm *.jpg")
-        await message.reply_text("✅ **cleaned**")
+        await message.reply_text("😣ᴋʜᴛᴀᴍ ʙʏᴇ ʙʏᴇ ᴛᴀᴛᴀ😶")
     else:
-        await message.reply_text("✅ **already cleaned**")
+        await message.reply_text("😔ɢᴏᴏᴅ ʙʏᴇ ʙᴇᴛᴀ🥲")
