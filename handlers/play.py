@@ -278,7 +278,7 @@ async def play(_, message: Message):
             return await lel.edit(
                 "**😉ʙᴇᴛᴀ ɪɴᴋᴇ ᴘᴀsᴀɴᴅ ᴋᴀ ɢᴀɴᴀ ʟᴀɢᴀɴᴀ❤️‍🔥**"
             )
-        await lel.edit("🔎")
+        await lel.edit("💋")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
