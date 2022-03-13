@@ -118,7 +118,7 @@ async def play(_, message: Message):
                     invitelink = await _.export_chat_invite_link(chid)
                 except:
                     await lel.edit(
-                        "<b>👀ᴍᴇʀᴇ ʙᴇᴛᴇ ᴋᴏ ᴀᴅᴍɪɴ ʙᴀɴɪʏᴇ🥺<b>"
+                        "<b>👀ᴍᴇʀᴇ ʙᴇᴛᴇ ᴋᴏ ᴀᴅᴍɪɴ ʙᴀɴɪʏᴇ🥺<b>")
 
                 try:
                     await USER.join_chat(invitelink)
