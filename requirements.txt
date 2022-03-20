@@ -13,4 +13,4 @@ ffmpeg-python
 ffmpeg
 Pillow
 ujson
-yt_dlp
+
