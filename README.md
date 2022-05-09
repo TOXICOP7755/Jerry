@@ -3,7 +3,9 @@
 <p align="center"><a href="http://t.me/SFLMANAGER_BOT"><img src="https://te.legra.ph/file/d1344663dfba5cadb595d.jpg"></a></p>
 <p align="center">
 
-<h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ!</h4>    
+<h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ!</h4> 
+
+#deploy   
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## ᴄᴏɴᴛᴀᴄᴛ & sᴜᴘᴘᴏʀᴛ
