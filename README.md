@@ -5,8 +5,8 @@
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ!</h4> 
 
-#deploy   
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://github.com/Parth651-45/Jerry/deploy)
 
 ## ᴄᴏɴᴛᴀᴄᴛ & sᴜᴘᴘᴏʀᴛ
 
