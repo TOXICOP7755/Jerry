@@ -8,3 +8,4 @@ services:
       - BOT_TOKEN=${BOT_TOKEN}
       - BOT_NAME=${BOT_NAME}
       - SESSION_NAME=${SESSION_NAME}
+      - DURATION_LIMIT=${DURATION_LIMIT}
