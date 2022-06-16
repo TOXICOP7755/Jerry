@@ -7,3 +7,4 @@ services:
       - API_HASH=${API_HASH}
       - BOT_TOKEN=${BOT_TOKEN}
       - BOT_NAME=${BOT_NAME}
+      - SESSION_NAME=${SESSION_NAME}
