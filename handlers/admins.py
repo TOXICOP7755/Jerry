@@ -55,8 +55,10 @@ async def skip(_, message: Message):
         queues.task_done(chat_id)
         
         if queues.is_empty(chat_id):
+            await message.reply_text("😑ᴍᴇʀᴀ ɢᴀɴᴀ 😤ᴋʏᴜ ʜᴀᴛᴀʏᴀ👀")
             await callsmusic.pytgcalls.leave_group_call(chat_id)
         else:
+            await message.reply_text("😑ᴍᴇʀᴀ ɢᴀɴᴀ 😤ᴋʏᴜ ʜᴀᴛᴀʏᴀ👀")
             await callsmusic.pytgcalls.change_stream(
                 chat_id, 
                 InputStream(
@@ -65,4 +67,4 @@ async def skip(_, message: Message):
                     ),
                 ),
             )
-    await message.reply_text("😑ᴍᴇʀᴀ ɢᴀɴᴀ 😤ᴋʏᴜ ʜᴀᴛᴀʏᴀ👀")
+    
