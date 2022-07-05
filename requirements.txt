@@ -1,7 +1,7 @@
 git+https://github.com/adityacheats/downloader@master
 pyrogram==1.4.16
 TgCrypto
-py-tgcalls
+py-tgcalls==0.8.1
 python-dotenv
 git+https://github.com/mradityahalder/kaal-search-python@main
 requests
@@ -16,3 +16,4 @@ Pillow
 ujson
 spotipy
 wget
+speedtest-cli
