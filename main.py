@@ -15,5 +15,5 @@ bot = Bot(
 )
 
 bot.start()
-call_py()
+call_py.start()
 idle()
