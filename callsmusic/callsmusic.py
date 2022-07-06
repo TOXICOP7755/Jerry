@@ -29,4 +29,4 @@ async def on_stream_end(client: PyTgCalls, update: Update) -> None:
         )
 
 
-call_py = pytgcalls(client)
+call_py = PyTgcalls(client)
