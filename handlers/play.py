@@ -161,24 +161,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/THEJERRY_NETWORK")
-               ],
-               [
-                    InlineKeyboardButton(
-                            text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Xmen_logon"),
-                            
-                    InlineKeyboardButton(
-                            text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/THEJERRY_NETWORK")
-               ],
-               [
-                        InlineKeyboardButton(
-                            text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/TheJerrySupport")
-                   
-                ]
+                            text="【 𝙊𝙒𝙉𝙀𝙍 】",
+                            url=f"https://t.me/TASTRON")
+               ]
             ]
         )
 
@@ -214,24 +199,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/THEJERRY_NETWORK")
-               ],
-               [
-                    InlineKeyboardButton(
-                            text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Xmen_logon"),
-                            
-                    InlineKeyboardButton(
-                            text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/THEJERRY_NETWORK")
-               ],
-               [
-                        InlineKeyboardButton(
-                            text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/TheJerrySupport")
-                   
-                ]
+                            text="【 𝙊𝙒𝙉𝙀𝙍 】",
+                            url=f"https://t.me/TASTRON")
+               ]
             ]
         )
 
@@ -244,24 +214,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/THEJERRY_NETWORK")
-               ],
-               [
-                    InlineKeyboardButton(
-                            text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Xmen_logon"),
-                            
-                    InlineKeyboardButton(
-                            text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/THEJERRY_NETWORK")
-               ],
-               [
-                        InlineKeyboardButton(
-                            text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/TheJerrySupport")
-                   
-                ]
+                            text="【 𝙊𝙒𝙉𝙀𝙍 】",
+                            url=f"https://t.me/TASTRON")
+               ]
             ]
         )
 
@@ -312,24 +267,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴄʜᴀɴɴᴇʟ⏫",
-                            url=f"https://t.me/THEJERRY_NETWORK")
-               ],
-               [
-                    InlineKeyboardButton(
-                            text="ᴀʙᴏᴜᴛ ᴍᴇ ⏬",
-                            url=f"https://t.me/Xmen_logon"),
-                            
-                    InlineKeyboardButton(
-                            text="xᴍᴇɴ🔄",
-                            url=f"https://t.me/THEJERRY_NETWORK")
-               ],
-               [
-                        InlineKeyboardButton(
-                            text="ᴄʟᴜsᴛᴇʀ⏹",
-                            url=f"https://t.me/TheJerrySupport")
-                   
-                ]
+                            text="【 𝙊𝙒𝙉𝙀𝙍 】",
+                            url=f"https://t.me/TASTRON")
+               ]
             ]
         )
 
@@ -349,7 +289,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="**🙊ᴍᴇʀᴇ ʙᴇᴛᴀ ᴋᴀ ᴘʀᴏɢʀᴇssᴇs😋** {}**".format(position),
+            caption="**🙊ᴍᴇʀᴇ ʙᴇᴛᴀ ᴋᴀ ᴘʀᴏɢʀᴇssᴇs😋**{}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -366,7 +306,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**❰ 🎼👎{}`...**".format(
+            caption="**...{}...**".format(
         message.chat.title
         ), )
 
