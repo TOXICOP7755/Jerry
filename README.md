@@ -7,16 +7,15 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Parth651-45/Jerry)
 
-[![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Parth651-45/Jerry&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
- 
+## ᴅᴇᴘʟᴏʏ ᴛᴏ ᴏᴋᴛᴇᴛᴏ
 [![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUzox/Jerry)
 
 
 ## ᴄᴏɴᴛᴀᴄᴛ & sᴜᴘᴘᴏʀᴛ
 
-<a href="https://t.me/The_Xmenteam"><img src="https://img.shields.io/badge/%E2%9A%A1-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B%20%C9%A2%CA%80%E1%B4%8F%E1%B4%9C%E1%B4%98-blue?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/THEJERRY_NETWORK"><img src="https://img.shields.io/badge/%E2%9A%A1-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B%20%E1%B4%84%CA%9C%E1%B4%80%C9%B4%C9%B4%E1%B4%87%CA%9F-blue?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/song_hye_kyooo"><img src="https://img.shields.io/badge/%E2%9A%A1-%E1%B4%84%E1%B4%8F%E1%B4%85%E1%B4%87%CA%80-blue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/chatty_familia"><img src="https://img.shields.io/badge/%E2%9A%A1-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B%20%C9%A2%CA%80%E1%B4%8F%E1%B4%9C%E1%B4%98-blue?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/UNK_NETWORK"><img src="https://img.shields.io/badge/%E2%9A%A1-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B%20%E1%B4%84%CA%9C%E1%B4%80%C9%B4%C9%B4%E1%B4%87%CA%9F-blue?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/TASTRON"><img src="https://img.shields.io/badge/%E2%9A%A1-%E1%B4%84%E1%B4%8F%E1%B4%85%E1%B4%87%CA%80-blue?style=for-the-badge&logo=Telegram"></a>
 
 ## ʟɪᴄᴇɴsᴇ
 
