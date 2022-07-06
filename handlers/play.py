@@ -129,7 +129,7 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"<b>❰😒ғʟᴏᴏᴅ ʜᴀɪ ʙᴇᴛᴀ😏❱</b>\n🤔ᴍᴇʀᴀ ʙᴇᴛᴀ ᴋᴏ ᴋᴏɪ ʙᴀɴ ᴋᴀʀ ᴅɪʏᴀ ʏᴀ🥺 sᴇʀᴠᴇʀ ᴜsᴋᴀ ʙᴀᴅʜ ɢʏᴀ .... ᴜsᴋᴇ ᴘᴀᴘᴀ ᴋᴏ ʙᴜʟᴀ ᴅɪᴊɪʏᴇ😁- ✨ [꓅꒑ꋊ ℳɄƧꂑᏣ β๏꓅](https://t.me/Xmen_logon) ❤️🥀 :) ")
+                        f"<b>❰😒ғʟᴏᴏᴅ ʜᴀɪ ʙᴇᴛᴀ😏❱</b>\n🤔ᴍᴇʀᴀ ʙᴇᴛᴀ ᴋᴏ ᴋᴏɪ ʙᴀɴ ᴋᴀʀ ᴅɪʏᴀ ʏᴀ🥺 sᴇʀᴠᴇʀ ᴜsᴋᴀ ʙᴀᴅʜ ɢʏᴀ .... ᴜsᴋᴇ ᴘᴀᴘᴀ ᴋᴏ ʙᴜʟᴀ ᴅɪᴊɪʏᴇ😁- ✨ [ᴀʟᴏɴᴇ x ᴍᴜꜱɪᴄ](https://t.me/TASTRON) ❤️🥀 :) ")
     try:
         await USER.get_chat(chid)
     except:
@@ -152,7 +152,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://te.legra.ph/file/b0284421d07c5b51b3db1.jpg"
+        thumb_name = "https://te.legra.ph/file/da04efeb07633d12d7475.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -207,7 +207,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://te.legra.ph/file/b0284421d07c5b51b3db1.jpg"
+            thumb_name = "https://te.legra.ph/file/da04efeb07633d12d7475.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
