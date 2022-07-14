@@ -15,7 +15,7 @@ env:
   NPMRegistry: https://registry.npmjs.org/
   InstallCommand: npm i -g npm
   BuildCommand: npm run build
-  Output: ./kaal/
+  Output: ./
 
 jobs:
   build:
